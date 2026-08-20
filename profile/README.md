@@ -11,8 +11,6 @@ Small spheres. Big guns. Babo Violent 2 is a fast multiplayer top-down arena sho
 ## Projects
 
 - `baboviolent2-jsclient`: public browser client and shared game assets
-- `babo-dedicated-server`: dedicated game server
-- `babo-relay`: server directory, authentication, and lobby services
 - `website`: community home and instant-play entry point
 
 Pull requests, testing, maps, gameplay footage, and server hosting are welcome.
