@@ -1,6 +1,6 @@
 # Babo Violent
 
-Small spheres. Big guns. Babo Violent 2 is a fast multiplayer top-down arena shooter first released by RndLabs in 2006. We are rebuilding its client, dedicated server, and online services in the open.
+Small spheres. Big guns. Babo Violent 2 is a fast multiplayer top-down arena shooter first released by RndLabs in 2006. We are rebuilding its client, dedicated server, and online services.
 
 ## Jump into the arena
 
@@ -12,4 +12,4 @@ Small spheres. Big guns. Babo Violent 2 is a fast multiplayer top-down arena sho
 
 - `baboviolent2-jsclient`: public browser client and shared game assets
 
-Pull requests, testing, maps, gameplay footage, and server hosting are welcome.
+Pull requests, testing, maps, and gameplay footage are welcome.
